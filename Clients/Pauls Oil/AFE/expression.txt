@@ -1,0 +1,17 @@
+<SignedData>
+  <Data>true</Data>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>G5adRv0p0fMAsRZC6+Psq3gsALw=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>gQoGMhLKsJf9BzEf+sR2pvwpPALBaRqeI70HhZBOlwqObWf6fqej7vo4ZilKsbG76M6ZuxWsSnp7f/Zw8knq3P6jYLJ8vGdeY9Xawn0EIuaQzPqsJ7Td3y+izXE2XF6OWMM9fqTv1VQ+1NZOpqE7HCk+TPOF37Pk+Z0fD553TcY=</SignatureValue>
+  </Signature>
+</SignedData>

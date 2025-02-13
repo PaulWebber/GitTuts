@@ -1,0 +1,1236 @@
+<FormData xmlns="http://energynavigator.com/xml/afe/form-data/2">
+  <GenerationTimestamp>2021-06-11T17:41:00Z</GenerationTimestamp>
+  <Afe>
+    <ACCRUAL_CALCULATION_DATE>2019-06-30T00:00:00Z</ACCRUAL_CALCULATION_DATE>
+    <ACCRUAL_DOC DOCUMENT_TYPE="ACCRUAL">
+      <CALCULATION_DATE>2019-06-30T00:00:00Z</CALCULATION_DATE>
+      <DOCUMENT_ID>d7983e97-2dd4-489d-9966-1a3738429695</DOCUMENT_ID>
+      <GROSS_ACTUAL>0</GROSS_ACTUAL>
+      <GROSS_AMOUNT>0</GROSS_AMOUNT>
+      <GROSS_FIELDCOST>0</GROSS_FIELDCOST>
+      <NET_ACTUAL>0</NET_ACTUAL>
+      <NET_AMOUNT>0</NET_AMOUNT>
+      <NET_FIELDCOST>0</NET_FIELDCOST>
+      <UPDATED_PROJ_EST>0</UPDATED_PROJ_EST>
+      <YEAREND>0</YEAREND>
+    </ACCRUAL_DOC>
+    <AFENUMBER_DOC DOCUMENT_TYPE="AFENUMBER">
+      <AFENUMBER>07W090</AFENUMBER>
+      <DOCUMENT_ID>4b24b907-b98f-4d2e-921e-4c5eee17f74d</DOCUMENT_ID>
+    </AFENUMBER_DOC>
+    <APPROVALS />
+    <APPROVED_GROSS_ESTIMATE>0</APPROVED_GROSS_ESTIMATE>
+    <APPROVED_NET_ESTIMATE>0</APPROVED_NET_ESTIMATE>
+    <AUDIT />
+    <BASE_CREATION_DATE>2015-09-02T01:42:10Z</BASE_CREATION_DATE>
+    <BASE_CREATION_DATE_DAYS>2109.66585855058</BASE_CREATION_DATE_DAYS>
+    <BUDGET_YEAR>2007</BUDGET_YEAR>
+    <CARRYOVER>30000.00000000000000</CARRYOVER>
+    <CHAIN_GUID>13725c7b-fff9-428a-b416-607d99b509dc</CHAIN_GUID>
+    <CHAIN_VERSION>2</CHAIN_VERSION>
+    <CLOSED>false</CLOSED>
+    <CREATION_DATE>2015-09-02T01:42:10Z</CREATION_DATE>
+    <CREATION_DATE_DAYS>2109.66585855058</CREATION_DATE_DAYS>
+    <CREATOR DOCUMENT_TYPE="USER">
+      <ACTIVE>true</ACTIVE>
+      <CUSTOM />
+      <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+        <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+        <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+        <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+        <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+        <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+        <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+        <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+        <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+        <NAME>yyyy-mm-dd</NAME>
+      </DATETIME_FORMAT>
+      <DOCUMENT_ID>026f6b78-3aea-4830-a147-84de62b29706</DOCUMENT_ID>
+      <EMAIL>originator1@example.com</EMAIL>
+      <MODULE_AFE>true</MODULE_AFE>
+      <MODULE_BUDGET>true</MODULE_BUDGET>
+      <MODULE_OPSCHED>false</MODULE_OPSCHED>
+      <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+      <MODULE_RTX>true</MODULE_RTX>
+      <NAME>Bennie Originator</NAME>
+      <PERM_NEW_AFE>true</PERM_NEW_AFE>
+      <PERM_NEW_PROJECT>false</PERM_NEW_PROJECT>
+      <PERM_NEW_RTD>true</PERM_NEW_RTD>
+      <PERM_NEW_SCHED>false</PERM_NEW_SCHED>
+      <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+      <TIMEZONE_IANA_OLSON>America/Denver</TIMEZONE_IANA_OLSON>
+      <USERDESCRIPTION>Originator1</USERDESCRIPTION>
+      <USERID>2</USERID>
+    </CREATOR>
+    <CURRENCY_CODE>CAD</CURRENCY_CODE>
+    <CUSTOM>
+      <AFE_TYPE DOCUMENT_TYPE="LUT_AFE_TYPE">
+        <ACTIVE>true</ACTIVE>
+        <CODE_NUM>12</CODE_NUM>
+        <DOCUMENT_ID>0e627498-8728-42ee-b0d5-78b4eca7d35f</DOCUMENT_ID>
+        <OTHER_VALUE1>W</OTHER_VALUE1>
+        <OTHER_VALUE2>WORK</OTHER_VALUE2>
+        <VALUE>WORKOVER</VALUE>
+      </AFE_TYPE>
+      <AREA DOCUMENT_TYPE="LUT_AREA">
+        <ACTIVE>true</ACTIVE>
+        <BIG_AREA>Big2</BIG_AREA>
+        <CODE_NUM>7</CODE_NUM>
+        <DOCUMENT_ID>b305821a-0d2f-4c26-83ca-849249795d1e</DOCUMENT_ID>
+        <OTHER_VALUE2>7</OTHER_VALUE2>
+        <VALUE>Cessford</VALUE>
+      </AREA>
+      <BOTTOM_HOLE_LOCATION_UWI />
+      <BUDGETED>false</BUDGETED>
+      <CLASSIFICATION DOCUMENT_TYPE="LUT_GNRL7">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>13ca0861-f537-44be-a685-e418796584d7</DOCUMENT_ID>
+        <VALUE>Expense</VALUE>
+      </CLASSIFICATION>
+      <COST_CENTER>466931</COST_CENTER>
+      <DISTRICT DOCUMENT_TYPE="LUT_DISTRICT">
+        <ACTIVE>true</ACTIVE>
+        <CODE_NUM>1</CODE_NUM>
+        <DOCUMENT_ID>8d9c68c8-60d0-4082-b2ef-9eef01b67e4e</DOCUMENT_ID>
+        <VALUE>North</VALUE>
+      </DISTRICT>
+      <OPERATOR_STATUS DOCUMENT_TYPE="LUT_OPRTR_STTS">
+        <ACTIVE>true</ACTIVE>
+        <CODE_NUM>1</CODE_NUM>
+        <DOCUMENT_ID>a01427c3-ddff-436c-b0e3-0b60d724e997</DOCUMENT_ID>
+        <VALUE>Operated</VALUE>
+      </OPERATOR_STATUS>
+      <STATE_PROVINCE DOCUMENT_TYPE="LUT_STTE_PRVNCE">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>8164844b-79b4-455c-9a27-996f44d29c40</DOCUMENT_ID>
+        <VALUE>AB</VALUE>
+      </STATE_PROVINCE>
+      <SURFACE_LOCATION_UWI />
+      <TAX_DESIGNATION DOCUMENT_TYPE="LUT_GNRL9">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>ba465cf4-1446-4e0f-8e11-bd7af52ee9b6</DOCUMENT_ID>
+        <VALUE>CEE</VALUE>
+      </TAX_DESIGNATION>
+      <WELL_NAME>CESSFORD 10-25</WELL_NAME>
+    </CUSTOM>
+    <DESCRIPTION>RECOMPLETION</DESCRIPTION>
+    <DOCUMENT_ID>19299634-1eda-4992-be12-f5e83b1f7343</DOCUMENT_ID>
+    <END_DATE>2014-08-09T07:00:00Z</END_DATE>
+    <ESTIMATE>
+      <ITEM>
+        <ACCOUNT DOCUMENT_TYPE="ACCOUNT">
+          <ACCOUNTDESCRIPTION>PRODUCTION CASING &amp; ACCESSORIES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>136</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.302</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>749f8002-cd51-4931-a566-58cc3c1dbbf5</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+        </ACCOUNT>
+        <ESTIMATE_CONFIG_GUID>2f488b79-a4b8-4184-a034-399049ecbbaa</ESTIMATE_CONFIG_GUID>
+        <GROSS_AMOUNT>30000.00000000000000</GROSS_AMOUNT>
+        <LISTITEM_ID>3c0c61c2-1822-4577-8135-4119edd877ca</LISTITEM_ID>
+      </ITEM>
+    </ESTIMATE>
+    <ESTIMATE_CONFIG>
+      <ITEM>
+        <APPROVED>false</APPROVED>
+        <EST_VERSION>0</EST_VERSION>
+        <ESTIMATE_CONFIG_GUID>2f488b79-a4b8-4184-a034-399049ecbbaa</ESTIMATE_CONFIG_GUID>
+        <LISTITEM_ID>1bf535c6-721d-47bc-ad10-a3e6c3668886</LISTITEM_ID>
+        <LOCKED>false</LOCKED>
+      </ITEM>
+    </ESTIMATE_CONFIG>
+    <ESTIMATE_CONVERSION_DATE>2014-05-10T06:00:00Z</ESTIMATE_CONVERSION_DATE>
+    <ESTIMATE_VERSION>
+      <ITEM>
+        <EST_VERSION>0</EST_VERSION>
+        <HISTORICAL>false</HISTORICAL>
+        <LISTITEM_ID>c43fc1f0-a02d-4072-941e-e0aac77c6db6</LISTITEM_ID>
+        <VERSION_NAME>R1</VERSION_NAME>
+      </ITEM>
+    </ESTIMATE_VERSION>
+    <EXTERNAL_JUSTIFICATION>Recompletion of well</EXTERNAL_JUSTIFICATION>
+    <GROSS_ACCRUAL>0</GROSS_ACCRUAL>
+    <GROSS_VARIANCE_ACTUALS>30000.00000000000000</GROSS_VARIANCE_ACTUALS>
+    <GROSS_VARIANCE_FIELDCOSTS>30000.00000000000000</GROSS_VARIANCE_FIELDCOSTS>
+    <HAS_PROJECT>false</HAS_PROJECT>
+    <INTERNAL_JUSTIFICATION>Recompletion of well</INTERNAL_JUSTIFICATION>
+    <LEGACY_AFEID>144</LEGACY_AFEID>
+    <LEGACY_CHAINID>95</LEGACY_CHAINID>
+    <LINKED_FILES />
+    <MAILBALLOT>
+      <IS_MAILBALLOT>false</IS_MAILBALLOT>
+    </MAILBALLOT>
+    <NET_ACCRUAL>0</NET_ACCRUAL>
+    <NET_VARIANCE_ACTUALS>30000.00000000000000</NET_VARIANCE_ACTUALS>
+    <NET_VARIANCE_FIELDCOSTS>30000.00000000000000</NET_VARIANCE_FIELDCOSTS>
+    <OP_NOTICE>false</OP_NOTICE>
+    <OPERATING_COMPANY DOCUMENT_TYPE="PARTNER">
+      <ACTIVE>true</ACTIVE>
+      <AFFILIATE>true</AFFILIATE>
+      <CODE>4</CODE>
+      <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+      <CUSTOM />
+      <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+      <PARTNERID>4</PARTNERID>
+    </OPERATING_COMPANY>
+    <OPERATOR_WI>90.00000000000000</OPERATOR_WI>
+    <OUR_WI>100.00000000000000</OUR_WI>
+    <OVERHEAD />
+    <OVERHEAD_ACCOUNTS />
+    <OWNER DOCUMENT_TYPE="USER">
+      <ACTIVE>true</ACTIVE>
+      <CUSTOM />
+      <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+        <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+        <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+        <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+        <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+        <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+        <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+        <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+        <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+        <NAME>yyyy-mm-dd</NAME>
+      </DATETIME_FORMAT>
+      <DOCUMENT_ID>026f6b78-3aea-4830-a147-84de62b29706</DOCUMENT_ID>
+      <EMAIL>originator1@example.com</EMAIL>
+      <MODULE_AFE>true</MODULE_AFE>
+      <MODULE_BUDGET>true</MODULE_BUDGET>
+      <MODULE_OPSCHED>false</MODULE_OPSCHED>
+      <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+      <MODULE_RTX>true</MODULE_RTX>
+      <NAME>Bennie Originator</NAME>
+      <PERM_NEW_AFE>true</PERM_NEW_AFE>
+      <PERM_NEW_PROJECT>false</PERM_NEW_PROJECT>
+      <PERM_NEW_RTD>true</PERM_NEW_RTD>
+      <PERM_NEW_SCHED>false</PERM_NEW_SCHED>
+      <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+      <TIMEZONE_IANA_OLSON>America/Denver</TIMEZONE_IANA_OLSON>
+      <USERDESCRIPTION>Originator1</USERDESCRIPTION>
+      <USERID>2</USERID>
+    </OWNER>
+    <PARENT_COMPANY DOCUMENT_TYPE="PARTNER">
+      <ACTIVE>true</ACTIVE>
+      <AFFILIATE>true</AFFILIATE>
+      <CODE>4</CODE>
+      <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+      <CUSTOM />
+      <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+      <PARTNERID>4</PARTNERID>
+    </PARENT_COMPANY>
+    <PARTNER>
+      <ITEM>
+        <COMPANY DOCUMENT_TYPE="PARTNER">
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>2</CODE>
+          <COMNAME>Nav Oil Corp.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>7ab356df-2696-4462-8324-659fa39e46a7</DOCUMENT_ID>
+          <PARTNERID>2</PARTNERID>
+        </COMPANY>
+        <CUSTOM />
+        <LISTITEM_ID>4deab62e-2c5d-4402-90c3-b1eeb028253e</LISTITEM_ID>
+        <SEND_CASHCALL>false</SEND_CASHCALL>
+        <SILENT>false</SILENT>
+        <STATUS DOCUMENT_TYPE="STATUS_AFE_PARTNER">
+          <BACKGROUND_COLOR>999999</BACKGROUND_COLOR>
+          <BEHAVIOR>OpNoStatus</BEHAVIOR>
+          <DISPLAY_NAME>No Status</DISPLAY_NAME>
+          <DOCUMENT_ID>5246e005-b5f6-4dd0-bb00-04e054ed3255</DOCUMENT_ID>
+          <EXPRESSION>return !NullBooleanToFalse(ReadBooleanField(m_documentData, "MAILBALLOT/IS_MAILBALLOT"));</EXPRESSION>
+          <FOREGROUND_COLOR>FFFFFF</FOREGROUND_COLOR>
+          <SHORT_NAME>NoStatus</SHORT_NAME>
+        </STATUS>
+        <WI_PERCENT>10.00000000000000</WI_PERCENT>
+      </ITEM>
+      <ITEM>
+        <COMPANY DOCUMENT_TYPE="PARTNER">
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+        </COMPANY>
+        <CUSTOM />
+        <LISTITEM_ID>a84b946b-5edd-4be6-a2ed-04d57e69c016</LISTITEM_ID>
+        <SEND_CASHCALL>false</SEND_CASHCALL>
+        <SILENT>false</SILENT>
+        <STATUS DOCUMENT_TYPE="STATUS_AFE_PARTNER">
+          <BACKGROUND_COLOR>999999</BACKGROUND_COLOR>
+          <BEHAVIOR>OpNoStatus</BEHAVIOR>
+          <DISPLAY_NAME>No Status</DISPLAY_NAME>
+          <DOCUMENT_ID>5246e005-b5f6-4dd0-bb00-04e054ed3255</DOCUMENT_ID>
+          <EXPRESSION>return !NullBooleanToFalse(ReadBooleanField(m_documentData, "MAILBALLOT/IS_MAILBALLOT"));</EXPRESSION>
+          <FOREGROUND_COLOR>FFFFFF</FOREGROUND_COLOR>
+          <SHORT_NAME>NoStatus</SHORT_NAME>
+        </STATUS>
+        <WI_PERCENT>90.00000000000000</WI_PERCENT>
+      </ITEM>
+    </PARTNER>
+    <PELOTONINT />
+    <PRIMARY_WELL>
+      <DESCRIPTION>RECOMPLETION</DESCRIPTION>
+      <SURFACE_LOCATION_UWI />
+      <UWI>100/10-25-024-09W4/00</UWI>
+      <UWI_LAT>51.07585950603810</UWI_LAT>
+      <UWI_LONG>-111.12945385927600</UWI_LONG>
+      <UWI_TEXT>A140240925100000</UWI_TEXT>
+    </PRIMARY_WELL>
+    <PROJECT />
+    <PROJECT_CAPITAL>0</PROJECT_CAPITAL>
+    <RECOMMEND_REJECT>false</RECOMMEND_REJECT>
+    <REQUIRED_BY_DATE>2014-08-09T07:00:00Z</REQUIRED_BY_DATE>
+    <REV_NUMBER>1</REV_NUMBER>
+    <REV_SUP_MODE>R</REV_SUP_MODE>
+    <REVIEW />
+    <SILENT_PARTNER_MODE DOCUMENT_TYPE="SILENT_PARTNER_MODE">
+      <CODE>SILENT_ONLY</CODE>
+      <DOCUMENT_ID>33823be6-9977-4e9b-b1a3-d1d36025a00b</DOCUMENT_ID>
+      <NAME>Visible only to other silent partners</NAME>
+    </SILENT_PARTNER_MODE>
+    <START_DATE>2014-06-08T06:00:00Z</START_DATE>
+    <STATUS>UNREL</STATUS>
+    <STATUS_DESC>Unreleased</STATUS_DESC>
+    <SUPPLEMENTAL_GROSS_ESTIMATE>0</SUPPLEMENTAL_GROSS_ESTIMATE>
+    <SUPPLEMENTAL_NET_ESTIMATE>0</SUPPLEMENTAL_NET_ESTIMATE>
+    <SYS_REVIEW />
+    <TOTAL_GROSS_ACTUAL>0</TOTAL_GROSS_ACTUAL>
+    <TOTAL_GROSS_ESTIMATE>30000.00000000000000</TOTAL_GROSS_ESTIMATE>
+    <TOTAL_GROSS_FIELDCOST>0</TOTAL_GROSS_FIELDCOST>
+    <TOTAL_NET_ACTUAL>0</TOTAL_NET_ACTUAL>
+    <TOTAL_NET_ESTIMATE>30000.00000000000000</TOTAL_NET_ESTIMATE>
+    <TOTAL_NET_FIELDCOST>0</TOTAL_NET_FIELDCOST>
+    <UPDATED_PROJ_EST>0</UPDATED_PROJ_EST>
+    <UPDATED_PROJ_EST_FC>0</UPDATED_PROJ_EST_FC>
+    <VERSION_STRING>R1</VERSION_STRING>
+    <WELL>
+      <ITEM>
+        <CUSTOM />
+        <DESCRIPTION>RECOMPLETION</DESCRIPTION>
+        <ISPRIMARY>true</ISPRIMARY>
+        <LISTITEM_ID>434165a9-46dd-4ecd-9b82-b19ff5a8016f</LISTITEM_ID>
+        <SURFACE_LOCATION_UWI />
+        <UWI>100/10-25-024-09W4/00</UWI>
+        <UWI_LAT>51.07585950603810</UWI_LAT>
+        <UWI_LONG>-111.12945385927600</UWI_LONG>
+        <UWI_TEXT>A140240925100000</UWI_TEXT>
+      </ITEM>
+    </WELL>
+    <WELL_REPORTING_IDENTIFIER>100/10-25-024-09W4/00</WELL_REPORTING_IDENTIFIER>
+    <WI_DETAILS>
+      <CAP_COUNT>0</CAP_COUNT>
+      <CAP1_AMOUNT>0</CAP1_AMOUNT>
+      <CAP10_AMOUNT>0</CAP10_AMOUNT>
+      <CAP2_AMOUNT>0</CAP2_AMOUNT>
+      <CAP3_AMOUNT>0</CAP3_AMOUNT>
+      <CAP4_AMOUNT>0</CAP4_AMOUNT>
+      <CAP5_AMOUNT>0</CAP5_AMOUNT>
+      <CAP6_AMOUNT>0</CAP6_AMOUNT>
+      <CAP7_AMOUNT>0</CAP7_AMOUNT>
+      <CAP8_AMOUNT>0</CAP8_AMOUNT>
+      <CAP9_AMOUNT>0</CAP9_AMOUNT>
+    </WI_DETAILS>
+    <YEAREND>0</YEAREND>
+    <YEAREND_FC>0</YEAREND_FC>
+    <x_COMMENTS />
+    <AfeChainId>95</AfeChainId>
+    <AfeNumber>07W090</AfeNumber>
+    <AfeNumberWithVersion>07W090 R1</AfeNumberWithVersion>
+    <VersionType>Revision</VersionType>
+    <VersionString>R1</VersionString>
+    <CorrectionNumber>0</CorrectionNumber>
+    <RevisionNumber>1</RevisionNumber>
+    <SupplementNumber>0</SupplementNumber>
+    <PreviousEstimate>0.00000000000000</PreviousEstimate>
+    <PreviousEstimateFormatted>$0.00</PreviousEstimateFormatted>
+    <CurrentEstimate>30000.00000000000000</CurrentEstimate>
+    <CurrentEstimateFormatted>$30,000.00</CurrentEstimateFormatted>
+    <TotalEstimate>30000.00000000000000</TotalEstimate>
+    <TotalEstimateFormatted>$30,000.00</TotalEstimateFormatted>
+    <Attributes>
+      <Attribute1.Name>AFE Type</Attribute1.Name>
+      <Attribute1.Id>12</Attribute1.Id>
+      <Attribute1.Value>WORKOVER</Attribute1.Value>
+      <Attribute1.OtherValue1>W</Attribute1.OtherValue1>
+      <Attribute1.OtherValue2>WORK</Attribute1.OtherValue2>
+      <Attribute2.Name>District</Attribute2.Name>
+      <Attribute2.Id>1</Attribute2.Id>
+      <Attribute2.Value>North</Attribute2.Value>
+      <Attribute3.Name>Area</Attribute3.Name>
+      <Attribute3.Id>7</Attribute3.Id>
+      <Attribute3.Value>Cessford</Attribute3.Value>
+      <Attribute3.OtherValue2>7</Attribute3.OtherValue2>
+      <Attribute4.Name>Operator Status</Attribute4.Name>
+      <Attribute4.Id>1</Attribute4.Id>
+      <Attribute4.Value>Operated</Attribute4.Value>
+    </Attributes>
+    <Partners>
+      <Partner>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>2</CODE>
+          <COMNAME>Nav Oil Corp.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>7ab356df-2696-4462-8324-659fa39e46a7</DOCUMENT_ID>
+          <PARTNERID>2</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>10.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>3000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>3000.0000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$3,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$3,000.00</FormattedTotalNetEstimate>
+      </Partner>
+      <Partner>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>90.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>27000.000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>27000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$27,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$27,000.00</FormattedTotalNetEstimate>
+      </Partner>
+    </Partners>
+    <Estimates>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PRODUCTION CASING &amp; ACCESSORIES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>136</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.302</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>749f8002-cd51-4931-a566-58cc3c1dbbf5</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>30000.00000000000000</CurrentAmount>
+        <CurrentAmountFormatted>$30,000.00</CurrentAmountFormatted>
+        <TotalEstimate>30000.00000000000000</TotalEstimate>
+        <TotalEstimateFormatted>$30,000.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>HAULING &amp; TRANSPORTATION</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>158</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.353</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>b58a51d6-69f8-4ee2-b1d2-92533d188344</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ROAD USE</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>142</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.308</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>5e6f3ea6-8e59-432f-9061-a48191c73c10</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>CEMENTING SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>151</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.323</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>f66330ce-3533-4ee3-af2a-7973c9f9aa78</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>TESTING, ANALYSIS &amp; SURVEYS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>153</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.333</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>66f52e06-d5e9-4dc8-aa4d-cb3d7c0e1f89</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>FISHING &amp; SPECIAL SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>154</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.335</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>029fd6b8-bfc0-494b-8863-c8441bb6e7f2</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>OPERATORS JOINT COSTS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>165</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.392</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>a03b291f-8149-4d32-b960-5951007a715b</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PERFORATING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>148</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.318</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>bf9634b9-fca3-4dad-ac9e-b646d46f4a15</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>MISCELLANEOUS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>167</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.396</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>2a9e5c53-db3c-4fca-9de7-92888db90b42</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>WATER/VACUUM/STEAM TRUCK</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>152</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.327</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>d76540d7-3659-4891-9d5a-b8b1dfd8e8d2</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>LOAD OIL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>144</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.313</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>0aabfb8f-da99-4095-8998-670d19703922</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ACCRUAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>324</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.999</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>3390217b-d106-4c91-b921-fdbd6c493e3c</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>true</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>COMMUNICATIONS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>156</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.339</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>a8cf44dc-9344-4365-aaf9-91b6de88af6d</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SAFETY &amp; ENVIRONMENTAL SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>161</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.371</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>f494bde6-86f0-4b4d-b8b2-3b044c29aad9</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ABANDONMENT COSTS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>163</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.381</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>d2c04aa3-e636-4c20-aa9f-7e040ef2b771</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>EQUIPMENT RENTALS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>155</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.337</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>9cd210a5-430c-4021-a986-69ce8b4fc231</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ACCRUAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>338</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.CLR</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>e7a2fd52-3389-4ffa-a9fa-726597cec826</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>true</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>LABOUR</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>157</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.347</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>11c07583-045e-4b56-a85e-2bee4b4f2c16</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>LOGGING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>147</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.317</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>63ae2ebd-b6c0-4bf2-89e5-168ecae08b68</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>TRAVEL &amp; ACCOMODATION</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>159</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.357</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>6671b1e5-f1e6-444c-9293-21852e50a7d9</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ENGINEERING CONSULT/SUPERVISION</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>162</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.377</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>90809434-c610-4d56-830a-fddfde4fab7f</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ADMINISTRATIVE OVERHEAD</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>168</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.399</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>ea0be55f-ff4a-45c3-b0a2-34a20ed01cb6</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SITE RESTORATION</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>164</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.383</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>6351d72c-e8ba-4dca-b33b-1c9f0f66a254</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SERVICE RIG, POWER &amp; FUEL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>143</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.309</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>9d3b0270-3914-47c1-9645-18af2affa5b3</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>TUBING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>138</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.304</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>e574775c-e737-4328-b93b-80fb73d4b500</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PACKERS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>139</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.305</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>25e5bd6c-cf1b-4ca8-8320-55e70ea270c9</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ACIDIZING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>149</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.319</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>a6352cf7-f04e-449f-9a8f-fd4ed9f81ea8</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SUPPLIES &amp; MATERIALS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>160</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.359</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>c3372834-c58f-4933-b0df-1db1625e2f38</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>LICENCE, FEES, TAXES, &amp; PERMITS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>135</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.301</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>88104fe3-45e9-4fac-96bf-2ac7ed292bc8</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>CONTINGENCY</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>166</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.394</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>9090ef31-527f-4764-a68d-c97737efa0f1</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>WASTE PROCESSING &amp; DISPOSAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>145</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.314</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>95cb1800-99a7-4983-b56e-3cdf4c23d146</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SUB-SURFACE WIRELINE SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>150</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.321</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>4bb77881-250b-4e51-b3ba-286328acecaf</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ROAD &amp; SITE COSTS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>141</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.307</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>ecf57ddb-2b8d-4855-94e2-0890a8eebf85</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>STIMULATION &amp; FRACTURING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>146</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.315</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>7b3e4073-1f4d-4125-8e6f-ced3bf413a91</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>INSTALL PRODUCTION CASING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>137</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.303</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>8e6419ec-8c45-4c62-862c-7f7fd2827e62</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PERMANENT DOWNHOLE EQUIPMENT</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>140</ACCOUNTID>
+          <ACCOUNTNUMBER>9270.306</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>bff07d58-ab5e-4631-a200-107587e7503f</DOCUMENT_ID>
+          <GROUP_NAME>WORKOVERS</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+    </Estimates>
+    <CapCount>0</CapCount>
+  </Afe>
+  <TargetCompany>
+    <Company>
+      <ACTIVE>true</ACTIVE>
+      <AFFILIATE>true</AFFILIATE>
+      <CODE>4</CODE>
+      <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+      <CUSTOM />
+      <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+      <PARTNERID>4</PARTNERID>
+      <x_COMMENTS />
+    </Company>
+    <Status>No Status</Status>
+    <IsAffiliate>true</IsAffiliate>
+    <IsSilent>false</IsSilent>
+    <SendCashCall>false</SendCashCall>
+    <SilentWorkingInterest>0</SilentWorkingInterest>
+    <WorkingInterest>90.00000000000000</WorkingInterest>
+    <PreviousNetEstimate>0</PreviousNetEstimate>
+    <CurrentNetEstimate>27000.000000000000000000000000</CurrentNetEstimate>
+    <TotalNetEstimate>27000.000000000000000000000000</TotalNetEstimate>
+    <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+    <FormattedCurrentNetEstimate>$27,000.00</FormattedCurrentNetEstimate>
+    <FormattedTotalNetEstimate>$27,000.00</FormattedTotalNetEstimate>
+    <PartnersExcludingSilent>
+      <PartnerExcludingSilent>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>90.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>27000.000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>27000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$27,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$27,000.00</FormattedTotalNetEstimate>
+      </PartnerExcludingSilent>
+      <PartnerExcludingSilent>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>2</CODE>
+          <COMNAME>Nav Oil Corp.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>7ab356df-2696-4462-8324-659fa39e46a7</DOCUMENT_ID>
+          <PARTNERID>2</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>10.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>3000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>3000.0000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$3,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$3,000.00</FormattedTotalNetEstimate>
+      </PartnerExcludingSilent>
+      <PartnerExcludingSilent>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>2</CODE>
+          <COMNAME>Pauls Oil.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>7ab356df-2696-4462-8324-659fa39e46a7</DOCUMENT_ID>
+          <PARTNERID>2</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>99.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>5643456456.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>6546456434.0000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$6666.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$563456345,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$64563456453,000.00</FormattedTotalNetEstimate>
+      </PartnerExcludingSilent>    
+    </PartnersExcludingSilent>
+    <CollapsedPartners>
+      <PartnerCollapsed>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>2</CODE>
+          <COMNAME>Nav Oil Corp.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>7ab356df-2696-4462-8324-659fa39e46a7</DOCUMENT_ID>
+          <PARTNERID>2</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>10.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>3000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>3000.0000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$3,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$3,000.00</FormattedTotalNetEstimate>
+      </PartnerCollapsed>
+      <PartnerCollapsed>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>90.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>27000.000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>27000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$27,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$27,000.00</FormattedTotalNetEstimate>
+      </PartnerCollapsed>
+    </CollapsedPartners>
+    <CollapsedPartnersWithAffiliate>
+      <PartnerCollapsedWithAffiliate>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>2</CODE>
+          <COMNAME>Nav Oil Corp.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>7ab356df-2696-4462-8324-659fa39e46a7</DOCUMENT_ID>
+          <PARTNERID>2</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>10.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>3000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>3000.0000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$3,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$3,000.00</FormattedTotalNetEstimate>
+      </PartnerCollapsedWithAffiliate>
+      <PartnerCollapsedWithAffiliate>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>90.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>0</PreviousNetEstimate>
+        <CurrentNetEstimate>27000.000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>27000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$0.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$27,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$27,000.00</FormattedTotalNetEstimate>
+      </PartnerCollapsedWithAffiliate>
+    </CollapsedPartnersWithAffiliate>
+  </TargetCompany>
+</FormData>

@@ -1,0 +1,1106 @@
+<FormData xmlns="http://energynavigator.com/xml/afe/form-data/2">
+  <GenerationTimestamp>2021-06-11T17:40:29Z</GenerationTimestamp>
+  <Afe>
+    <ACCRUAL_CALCULATION_DATE>2019-06-30T00:00:00Z</ACCRUAL_CALCULATION_DATE>
+    <ACCRUAL_DOC DOCUMENT_TYPE="ACCRUAL">
+      <CALCULATION_DATE>2019-06-30T00:00:00Z</CALCULATION_DATE>
+      <DOCUMENT_ID>feda4519-0fe2-458c-8fa8-2abeb8d805ad</DOCUMENT_ID>
+      <GROSS_ACTUAL>16088.00000000000000</GROSS_ACTUAL>
+      <GROSS_AMOUNT>8912.00000000000000</GROSS_AMOUNT>
+      <GROSS_FIELDCOST>25000.00000000000000</GROSS_FIELDCOST>
+      <NET_ACTUAL>16088.00000000000000</NET_ACTUAL>
+      <NET_AMOUNT>8912.00000000000000</NET_AMOUNT>
+      <NET_FIELDCOST>25000.00000000000000</NET_FIELDCOST>
+      <UPDATED_PROJ_EST>0</UPDATED_PROJ_EST>
+      <YEAREND>0</YEAREND>
+    </ACCRUAL_DOC>
+    <AFENUMBER_DOC DOCUMENT_TYPE="AFENUMBER">
+      <AFENUMBER>06A992</AFENUMBER>
+      <DOCUMENT_ID>579dc367-2051-474e-8d4e-6a2b0edcc128</DOCUMENT_ID>
+    </AFENUMBER_DOC>
+    <APPROVALS />
+    <APPROVED_GROSS_ESTIMATE>11000.00000000000000</APPROVED_GROSS_ESTIMATE>
+    <APPROVED_NET_ESTIMATE>11000.00000000000000</APPROVED_NET_ESTIMATE>
+    <AUDIT>
+      <ITEM>
+        <EVENT_DATE>2018-07-24T04:45:28.517Z</EVENT_DATE>
+        <EVENT_ORDER>1</EVENT_ORDER>
+        <EVENT_SOURCE>ROUTE</EVENT_SOURCE>
+        <EVENT_TEXT>Route for Review</EVENT_TEXT>
+        <LISTITEM_ID>6781a03f-14f4-4e9d-b7bb-17334f19d818</LISTITEM_ID>
+      </ITEM>
+      <ITEM>
+        <EVENT_DATE>2018-07-24T04:46:19.137Z</EVENT_DATE>
+        <EVENT_ORDER>2</EVENT_ORDER>
+        <EVENT_SOURCE>ROUTE</EVENT_SOURCE>
+        <EVENT_TEXT>Route for Review</EVENT_TEXT>
+        <LISTITEM_ID>c98d38fa-8980-41ad-b9fb-409b192b8b8a</LISTITEM_ID>
+      </ITEM>
+    </AUDIT>
+    <BASE_CREATION_DATE>2014-07-12T00:42:10Z</BASE_CREATION_DATE>
+    <BASE_CREATION_DATE_DAYS>2526.70716816273</BASE_CREATION_DATE_DAYS>
+    <BUDGET_YEAR>2006</BUDGET_YEAR>
+    <CARRYOVER>15000.00000000000000</CARRYOVER>
+    <CHAIN_GUID>ca8edd78-f68d-4e98-942d-dfb1693c719c</CHAIN_GUID>
+    <CHAIN_VERSION>2</CHAIN_VERSION>
+    <CLOSED>false</CLOSED>
+    <CREATION_DATE>2014-07-12T00:42:10Z</CREATION_DATE>
+    <CREATION_DATE_DAYS>2526.70716816273</CREATION_DATE_DAYS>
+    <CREATOR DOCUMENT_TYPE="USER">
+      <ACTIVE>true</ACTIVE>
+      <CUSTOM />
+      <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+        <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+        <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+        <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+        <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+        <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+        <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+        <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+        <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+        <NAME>yyyy-mm-dd</NAME>
+      </DATETIME_FORMAT>
+      <DOCUMENT_ID>026f6b78-3aea-4830-a147-84de62b29706</DOCUMENT_ID>
+      <EMAIL>originator1@example.com</EMAIL>
+      <MODULE_AFE>true</MODULE_AFE>
+      <MODULE_BUDGET>true</MODULE_BUDGET>
+      <MODULE_OPSCHED>false</MODULE_OPSCHED>
+      <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+      <MODULE_RTX>true</MODULE_RTX>
+      <NAME>Bennie Originator</NAME>
+      <PERM_NEW_AFE>true</PERM_NEW_AFE>
+      <PERM_NEW_PROJECT>false</PERM_NEW_PROJECT>
+      <PERM_NEW_RTD>true</PERM_NEW_RTD>
+      <PERM_NEW_SCHED>false</PERM_NEW_SCHED>
+      <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+      <TIMEZONE_IANA_OLSON>America/Denver</TIMEZONE_IANA_OLSON>
+      <USERDESCRIPTION>Originator1</USERDESCRIPTION>
+      <USERID>2</USERID>
+    </CREATOR>
+    <CURRENCY_CODE>CAD</CURRENCY_CODE>
+    <CUSTOM>
+      <AFE_TYPE DOCUMENT_TYPE="LUT_AFE_TYPE">
+        <ACTIVE>true</ACTIVE>
+        <CODE_NUM>1</CODE_NUM>
+        <DOCUMENT_ID>b86e1d6a-eeb5-45ff-ad00-09a7c192359c</DOCUMENT_ID>
+        <OTHER_VALUE1>A</OTHER_VALUE1>
+        <OTHER_VALUE2>ABAN</OTHER_VALUE2>
+        <VALUE>ABANDONMENT</VALUE>
+      </AFE_TYPE>
+      <AREA DOCUMENT_TYPE="LUT_AREA">
+        <ACTIVE>true</ACTIVE>
+        <BIG_AREA>Big2</BIG_AREA>
+        <CODE_NUM>703</CODE_NUM>
+        <DOCUMENT_ID>30da5dd9-14f6-4689-bdbc-e01c3bb7a857</DOCUMENT_ID>
+        <OTHER_VALUE2>49</OTHER_VALUE2>
+        <VALUE>Plain Lake</VALUE>
+      </AREA>
+      <BOTTOM_HOLE_LOCATION_UWI />
+      <BUDGETED>false</BUDGETED>
+      <CLASSIFICATION DOCUMENT_TYPE="LUT_GNRL7">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>13ca0861-f537-44be-a685-e418796584d7</DOCUMENT_ID>
+        <VALUE>Expense</VALUE>
+      </CLASSIFICATION>
+      <COST_CENTER>365102</COST_CENTER>
+      <DISTRICT DOCUMENT_TYPE="LUT_DISTRICT">
+        <ACTIVE>true</ACTIVE>
+        <CODE_NUM>1</CODE_NUM>
+        <DOCUMENT_ID>8d9c68c8-60d0-4082-b2ef-9eef01b67e4e</DOCUMENT_ID>
+        <VALUE>North</VALUE>
+      </DISTRICT>
+      <IN_HOUSE_ENGINEERING DOCUMENT_TYPE="LUT_IN_HOUSE_EN">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>7e557e50-525d-46ea-ad9b-7aeb4479cff8</DOCUMENT_ID>
+        <VALUE>0%</VALUE>
+      </IN_HOUSE_ENGINEERING>
+      <OPERATOR_STATUS DOCUMENT_TYPE="LUT_OPRTR_STTS">
+        <ACTIVE>true</ACTIVE>
+        <CODE_NUM>1</CODE_NUM>
+        <DOCUMENT_ID>a01427c3-ddff-436c-b0e3-0b60d724e997</DOCUMENT_ID>
+        <VALUE>Operated</VALUE>
+      </OPERATOR_STATUS>
+      <OVERHEAD_RATE DOCUMENT_TYPE="LUT_OVRHD_RATE">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>78212b32-aca9-4995-9e24-464303c38416</DOCUMENT_ID>
+        <VALUE>321</VALUE>
+      </OVERHEAD_RATE>
+      <STATE_PROVINCE DOCUMENT_TYPE="LUT_STTE_PRVNCE">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>8164844b-79b4-455c-9a27-996f44d29c40</DOCUMENT_ID>
+        <VALUE>AB</VALUE>
+      </STATE_PROVINCE>
+      <SURFACE_LOCATION_UWI />
+      <TAX_DESIGNATION DOCUMENT_TYPE="LUT_GNRL9">
+        <ACTIVE>true</ACTIVE>
+        <DOCUMENT_ID>25ff9eff-bf6d-4ab9-acab-59656543273d</DOCUMENT_ID>
+        <VALUE>COGPE</VALUE>
+      </TAX_DESIGNATION>
+      <WELL_NAME>PLAIN LAKE 5-34</WELL_NAME>
+    </CUSTOM>
+    <DESCRIPTION>ABANDONMENT</DESCRIPTION>
+    <DOCUMENT_ID>95fcbd8a-4fff-4fe5-b69c-247bdfa624dc</DOCUMENT_ID>
+    <END_DATE>2013-08-09T07:00:00Z</END_DATE>
+    <ESTIMATE>
+      <ITEM>
+        <ACCOUNT DOCUMENT_TYPE="ACCOUNT">
+          <ACCOUNTDESCRIPTION>WASTE PROCESSING &amp; DISPOSAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>292</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.314</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>26edacee-382a-487a-8171-364c187d14b9</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+        </ACCOUNT>
+        <ESTIMATE_CONFIG_GUID>40ab242e-6b8d-44f5-b56c-72acb0c5babd</ESTIMATE_CONFIG_GUID>
+        <GROSS_AMOUNT>7500.00000000000000</GROSS_AMOUNT>
+        <LISTITEM_ID>273dd7ea-118e-486f-b2e8-ac19a7642742</LISTITEM_ID>
+      </ITEM>
+      <ITEM>
+        <ACCOUNT DOCUMENT_TYPE="ACCOUNT">
+          <ACCOUNTDESCRIPTION>TUBING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>287</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.304</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>398181b4-0ce5-4d36-a213-915a61e1d74a</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+        </ACCOUNT>
+        <ESTIMATE_CONFIG_GUID>40ab242e-6b8d-44f5-b56c-72acb0c5babd</ESTIMATE_CONFIG_GUID>
+        <GROSS_AMOUNT>3000.00000000000000</GROSS_AMOUNT>
+        <LISTITEM_ID>54ae50fe-17da-48cb-be6f-83271cf5e614</LISTITEM_ID>
+      </ITEM>
+      <ITEM>
+        <ACCOUNT DOCUMENT_TYPE="ACCOUNT">
+          <ACCOUNTDESCRIPTION>TUBING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>287</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.304</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>398181b4-0ce5-4d36-a213-915a61e1d74a</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+        </ACCOUNT>
+        <ESTIMATE_CONFIG_GUID>1ee2a91a-9302-45a2-be47-adde33a33e97</ESTIMATE_CONFIG_GUID>
+        <GROSS_AMOUNT>4000.00000000000000</GROSS_AMOUNT>
+        <LISTITEM_ID>cb8e01c2-0e9a-436c-97c6-f279bc0a7bac</LISTITEM_ID>
+      </ITEM>
+      <ITEM>
+        <ACCOUNT DOCUMENT_TYPE="ACCOUNT">
+          <ACCOUNTDESCRIPTION>EQUIPMENT RENTALS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>298</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.337</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>aa26341c-e648-4e23-aad7-afabc5433a2c</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+        </ACCOUNT>
+        <ESTIMATE_CONFIG_GUID>40ab242e-6b8d-44f5-b56c-72acb0c5babd</ESTIMATE_CONFIG_GUID>
+        <GROSS_AMOUNT>500.00000000000000</GROSS_AMOUNT>
+        <LISTITEM_ID>d50fe451-bf00-4c90-b3f5-94218cdfee95</LISTITEM_ID>
+      </ITEM>
+    </ESTIMATE>
+    <ESTIMATE_CONFIG>
+      <ITEM>
+        <APPROVED>true</APPROVED>
+        <EST_VERSION>0</EST_VERSION>
+        <ESTIMATE_CONFIG_GUID>40ab242e-6b8d-44f5-b56c-72acb0c5babd</ESTIMATE_CONFIG_GUID>
+        <LISTITEM_ID>0ebd77df-7477-4c22-bd13-6c616556e0e1</LISTITEM_ID>
+        <LOCKED>true</LOCKED>
+      </ITEM>
+      <ITEM>
+        <APPROVED>false</APPROVED>
+        <EST_VERSION>1</EST_VERSION>
+        <ESTIMATE_CONFIG_GUID>1ee2a91a-9302-45a2-be47-adde33a33e97</ESTIMATE_CONFIG_GUID>
+        <LISTITEM_ID>8dd958d2-d9e3-4189-a910-3037218fdc52</LISTITEM_ID>
+        <LOCKED>false</LOCKED>
+      </ITEM>
+    </ESTIMATE_CONFIG>
+    <ESTIMATE_CONVERSION_DATE>2013-03-19T06:00:00Z</ESTIMATE_CONVERSION_DATE>
+    <ESTIMATE_VERSION>
+      <ITEM>
+        <EST_VERSION>0</EST_VERSION>
+        <HISTORICAL>true</HISTORICAL>
+        <LISTITEM_ID>9d5d8712-6907-4d84-a6a2-8524ed74c1d1</LISTITEM_ID>
+      </ITEM>
+      <ITEM>
+        <EST_VERSION>1</EST_VERSION>
+        <HISTORICAL>false</HISTORICAL>
+        <LISTITEM_ID>f8417ff8-c7fb-4f79-a113-7d4f1a687ef7</LISTITEM_ID>
+        <VERSION_NAME>S1</VERSION_NAME>
+      </ITEM>
+    </ESTIMATE_VERSION>
+    <EXTERNAL_JUSTIFICATION>Clean up and abandonment</EXTERNAL_JUSTIFICATION>
+    <GROSS_ACCRUAL>8912.00000000000000</GROSS_ACCRUAL>
+    <GROSS_VARIANCE_ACTUALS>-1088.00000000000000</GROSS_VARIANCE_ACTUALS>
+    <GROSS_VARIANCE_FIELDCOSTS>-10000.00000000000000</GROSS_VARIANCE_FIELDCOSTS>
+    <HAS_PROJECT>false</HAS_PROJECT>
+    <INTERNAL_JUSTIFICATION>Clean up and abandonment</INTERNAL_JUSTIFICATION>
+    <LEGACY_AFEID>141</LEGACY_AFEID>
+    <LEGACY_CHAINID>1</LEGACY_CHAINID>
+    <LINKED_FILES />
+    <MAILBALLOT>
+      <IS_MAILBALLOT>false</IS_MAILBALLOT>
+    </MAILBALLOT>
+    <NET_ACCRUAL>8912.00000000000000</NET_ACCRUAL>
+    <NET_VARIANCE_ACTUALS>-1088.00000000000000</NET_VARIANCE_ACTUALS>
+    <NET_VARIANCE_FIELDCOSTS>-10000.00000000000000</NET_VARIANCE_FIELDCOSTS>
+    <OP_NOTICE>false</OP_NOTICE>
+    <OPERATING_COMPANY DOCUMENT_TYPE="PARTNER">
+      <ACTIVE>true</ACTIVE>
+      <AFFILIATE>true</AFFILIATE>
+      <CODE>4</CODE>
+      <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+      <CUSTOM />
+      <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+      <PARTNERID>4</PARTNERID>
+    </OPERATING_COMPANY>
+    <OPERATOR_WI>100.00000000000000</OPERATOR_WI>
+    <OUR_WI>100.00000000000000</OUR_WI>
+    <OVERHEAD />
+    <OVERHEAD_ACCOUNTS />
+    <OWNER DOCUMENT_TYPE="USER">
+      <ACTIVE>true</ACTIVE>
+      <CUSTOM />
+      <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+        <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+        <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+        <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+        <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+        <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+        <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+        <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+        <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+        <NAME>yyyy-mm-dd</NAME>
+      </DATETIME_FORMAT>
+      <DOCUMENT_ID>026f6b78-3aea-4830-a147-84de62b29706</DOCUMENT_ID>
+      <EMAIL>originator1@example.com</EMAIL>
+      <MODULE_AFE>true</MODULE_AFE>
+      <MODULE_BUDGET>true</MODULE_BUDGET>
+      <MODULE_OPSCHED>false</MODULE_OPSCHED>
+      <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+      <MODULE_RTX>true</MODULE_RTX>
+      <NAME>Bennie Originator</NAME>
+      <PERM_NEW_AFE>true</PERM_NEW_AFE>
+      <PERM_NEW_PROJECT>false</PERM_NEW_PROJECT>
+      <PERM_NEW_RTD>true</PERM_NEW_RTD>
+      <PERM_NEW_SCHED>false</PERM_NEW_SCHED>
+      <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+      <TIMEZONE_IANA_OLSON>America/Denver</TIMEZONE_IANA_OLSON>
+      <USERDESCRIPTION>Originator1</USERDESCRIPTION>
+      <USERID>2</USERID>
+    </OWNER>
+    <PARENT_COMPANY DOCUMENT_TYPE="PARTNER">
+      <ACTIVE>true</ACTIVE>
+      <AFFILIATE>true</AFFILIATE>
+      <CODE>4</CODE>
+      <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+      <CUSTOM />
+      <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+      <PARTNERID>4</PARTNERID>
+    </PARENT_COMPANY>
+    <PARTNER>
+      <ITEM>
+        <COMPANY DOCUMENT_TYPE="PARTNER">
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+        </COMPANY>
+        <CUSTOM />
+        <LISTITEM_ID>fd815767-a41c-4fcd-a667-ac8bc8d2866c</LISTITEM_ID>
+        <SEND_CASHCALL>false</SEND_CASHCALL>
+        <SILENT>false</SILENT>
+        <STATUS DOCUMENT_TYPE="STATUS_AFE_PARTNER">
+          <BACKGROUND_COLOR>999999</BACKGROUND_COLOR>
+          <BEHAVIOR>OpNoStatus</BEHAVIOR>
+          <DISPLAY_NAME>No Status</DISPLAY_NAME>
+          <DOCUMENT_ID>5246e005-b5f6-4dd0-bb00-04e054ed3255</DOCUMENT_ID>
+          <EXPRESSION>return !NullBooleanToFalse(ReadBooleanField(m_documentData, "MAILBALLOT/IS_MAILBALLOT"));</EXPRESSION>
+          <FOREGROUND_COLOR>FFFFFF</FOREGROUND_COLOR>
+          <SHORT_NAME>NoStatus</SHORT_NAME>
+        </STATUS>
+        <WI_PERCENT>100.00000000000000</WI_PERCENT>
+      </ITEM>
+    </PARTNER>
+    <PELOTONINT />
+    <PRIMARY_WELL>
+      <DESCRIPTION>ABANDONMENT</DESCRIPTION>
+      <SURFACE_LOCATION_UWI />
+      <UWI>100/05-34-053-11W4/00</UWI>
+      <UWI_LAT>53.61887427432610</UWI_LAT>
+      <UWI_LONG>-111.55003753610000</UWI_LONG>
+      <UWI_TEXT>A140531134050000</UWI_TEXT>
+    </PRIMARY_WELL>
+    <PROJECT />
+    <PROJECT_CAPITAL>0</PROJECT_CAPITAL>
+    <RECOMMEND_REJECT>false</RECOMMEND_REJECT>
+    <REQUIRED_BY_DATE>2014-08-09T07:00:00Z</REQUIRED_BY_DATE>
+    <REV_SUP_MODE>S</REV_SUP_MODE>
+    <REVIEW>
+      <ITEM>
+        <ASSIGNED_DATE>2018-07-24T04:46:19.133Z</ASSIGNED_DATE>
+        <LISTITEM_ID>00b4bdcf-76bf-421d-b495-953e1de8ba22</LISTITEM_ID>
+        <REVIEW_STATUS DOCUMENT_TYPE="STATUS_AFE_ADHOC_REVIEW">
+          <DOCUMENT_ID>789b0e5a-0088-4619-b585-f435498426ce</DOCUMENT_ID>
+          <LABEL_CSS_CLASS>label label-warning</LABEL_CSS_CLASS>
+          <STATUS>Not Reviewed</STATUS>
+        </REVIEW_STATUS>
+        <REVIEW_USER DOCUMENT_TYPE="USER">
+          <ACTIVE>true</ACTIVE>
+          <CUSTOM />
+          <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+            <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+            <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+            <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+            <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+            <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+            <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+            <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+            <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+            <NAME>yyyy-mm-dd</NAME>
+          </DATETIME_FORMAT>
+          <DOCUMENT_ID>3ae4c486-c55d-481f-a042-226f952ecb96</DOCUMENT_ID>
+          <EMAIL>PM@example.com</EMAIL>
+          <MODULE_AFE>true</MODULE_AFE>
+          <MODULE_BUDGET>true</MODULE_BUDGET>
+          <MODULE_OPSCHED>false</MODULE_OPSCHED>
+          <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+          <MODULE_RTX>true</MODULE_RTX>
+          <NAME>Alex Production Manager</NAME>
+          <PERM_NEW_AFE>true</PERM_NEW_AFE>
+          <PERM_NEW_PROJECT>false</PERM_NEW_PROJECT>
+          <PERM_NEW_RTD>false</PERM_NEW_RTD>
+          <PERM_NEW_SCHED>false</PERM_NEW_SCHED>
+          <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+          <TIMEZONE_IANA_OLSON>America/Denver</TIMEZONE_IANA_OLSON>
+          <USERDESCRIPTION>Approver West</USERDESCRIPTION>
+          <USERID>34</USERID>
+        </REVIEW_USER>
+      </ITEM>
+    </REVIEW>
+    <ROUTED_DATE>2018-07-24T04:46:19.133Z</ROUTED_DATE>
+    <ROUTED_USER DOCUMENT_TYPE="USER">
+      <ACTIVE>true</ACTIVE>
+      <CUSTOM />
+      <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+        <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+        <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+        <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+        <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+        <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+        <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+        <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+        <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+        <NAME>yyyy-mm-dd</NAME>
+      </DATETIME_FORMAT>
+      <DOCUMENT_ID>744d1b49-48b9-495c-ad2b-773f22f730ad</DOCUMENT_ID>
+      <EMAIL>j@n.com</EMAIL>
+      <MODULE_AFE>true</MODULE_AFE>
+      <MODULE_BUDGET>true</MODULE_BUDGET>
+      <MODULE_OPSCHED>true</MODULE_OPSCHED>
+      <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+      <MODULE_RTX>true</MODULE_RTX>
+      <NAME>System Admin</NAME>
+      <PERM_NEW_AFE>true</PERM_NEW_AFE>
+      <PERM_NEW_PROJECT>true</PERM_NEW_PROJECT>
+      <PERM_NEW_RTD>true</PERM_NEW_RTD>
+      <PERM_NEW_SCHED>true</PERM_NEW_SCHED>
+      <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+      <TIMEZONE_IANA_OLSON>America/Edmonton</TIMEZONE_IANA_OLSON>
+      <USERDESCRIPTION>2f3e5c8a-0a9b-4cbc-8071-5925731d645b</USERDESCRIPTION>
+      <USERID>1</USERID>
+    </ROUTED_USER>
+    <SILENT_PARTNER_MODE DOCUMENT_TYPE="SILENT_PARTNER_MODE">
+      <CODE>SILENT_ONLY</CODE>
+      <DOCUMENT_ID>33823be6-9977-4e9b-b1a3-d1d36025a00b</DOCUMENT_ID>
+      <NAME>Visible only to other silent partners</NAME>
+    </SILENT_PARTNER_MODE>
+    <START_DATE>2013-04-10T06:00:00Z</START_DATE>
+    <STATUS>ROUTED</STATUS>
+    <STATUS_DESC>Routed for Review</STATUS_DESC>
+    <SUP_NUMBER>1</SUP_NUMBER>
+    <SUPPLEMENTAL_GROSS_ESTIMATE>4000.00000000000000</SUPPLEMENTAL_GROSS_ESTIMATE>
+    <SUPPLEMENTAL_NET_ESTIMATE>4000.00000000000000</SUPPLEMENTAL_NET_ESTIMATE>
+    <SYS_REVIEW />
+    <TOTAL_GROSS_ACTUAL>16088.00000000000000</TOTAL_GROSS_ACTUAL>
+    <TOTAL_GROSS_ESTIMATE>15000.00000000000000</TOTAL_GROSS_ESTIMATE>
+    <TOTAL_GROSS_FIELDCOST>25000.00000000000000</TOTAL_GROSS_FIELDCOST>
+    <TOTAL_NET_ACTUAL>16088.00000000000000</TOTAL_NET_ACTUAL>
+    <TOTAL_NET_ESTIMATE>15000.00000000000000</TOTAL_NET_ESTIMATE>
+    <TOTAL_NET_FIELDCOST>25000.00000000000000</TOTAL_NET_FIELDCOST>
+    <UPDATED_PROJ_EST>0</UPDATED_PROJ_EST>
+    <UPDATED_PROJ_EST_FC>0</UPDATED_PROJ_EST_FC>
+    <VERSION_STRING>S1</VERSION_STRING>
+    <WELL>
+      <ITEM>
+        <CUSTOM />
+        <DESCRIPTION>ABANDONMENT</DESCRIPTION>
+        <ISPRIMARY>true</ISPRIMARY>
+        <LISTITEM_ID>3875bfa3-8cca-495b-808c-a83e7bd5e48d</LISTITEM_ID>
+        <SURFACE_LOCATION_UWI />
+        <UWI>100/05-34-053-11W4/00</UWI>
+        <UWI_LAT>53.61887427432610</UWI_LAT>
+        <UWI_LONG>-111.55003753610000</UWI_LONG>
+        <UWI_TEXT>A140531134050000</UWI_TEXT>
+      </ITEM>
+    </WELL>
+    <WELL_REPORTING_IDENTIFIER>100/05-34-053-11W4/00</WELL_REPORTING_IDENTIFIER>
+    <WI_DETAILS>
+      <CAP_COUNT>0</CAP_COUNT>
+      <CAP1_AMOUNT>0</CAP1_AMOUNT>
+      <CAP10_AMOUNT>0</CAP10_AMOUNT>
+      <CAP2_AMOUNT>0</CAP2_AMOUNT>
+      <CAP3_AMOUNT>0</CAP3_AMOUNT>
+      <CAP4_AMOUNT>0</CAP4_AMOUNT>
+      <CAP5_AMOUNT>0</CAP5_AMOUNT>
+      <CAP6_AMOUNT>0</CAP6_AMOUNT>
+      <CAP7_AMOUNT>0</CAP7_AMOUNT>
+      <CAP8_AMOUNT>0</CAP8_AMOUNT>
+      <CAP9_AMOUNT>0</CAP9_AMOUNT>
+    </WI_DETAILS>
+    <YEAREND>0</YEAREND>
+    <YEAREND_FC>0</YEAREND_FC>
+    <x_COMMENTS>
+      <COMMENT>
+        <COMMENT_TEXT>Approval history deleted.  Status changed to unreleased.</COMMENT_TEXT>
+        <COMMENT_LABEL>S1</COMMENT_LABEL>
+        <COMMENT_TYPE>AUDIT</COMMENT_TYPE>
+        <COMMENT_DATE>2015-12-08T20:59:38Z</COMMENT_DATE>
+        <OWNER>
+          <ACTIVE>true</ACTIVE>
+          <CUSTOM />
+          <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+            <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+            <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+            <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+            <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+            <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+            <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+            <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+            <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+            <NAME>yyyy-mm-dd</NAME>
+          </DATETIME_FORMAT>
+          <DOCUMENT_ID>744d1b49-48b9-495c-ad2b-773f22f730ad</DOCUMENT_ID>
+          <EMAIL>j@n.com</EMAIL>
+          <MODULE_AFE>true</MODULE_AFE>
+          <MODULE_BUDGET>true</MODULE_BUDGET>
+          <MODULE_OPSCHED>true</MODULE_OPSCHED>
+          <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+          <MODULE_RTX>true</MODULE_RTX>
+          <NAME>System Admin</NAME>
+          <PERM_NEW_AFE>true</PERM_NEW_AFE>
+          <PERM_NEW_PROJECT>true</PERM_NEW_PROJECT>
+          <PERM_NEW_RTD>true</PERM_NEW_RTD>
+          <PERM_NEW_SCHED>true</PERM_NEW_SCHED>
+          <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+          <TIMEZONE_IANA_OLSON>America/Edmonton</TIMEZONE_IANA_OLSON>
+          <USERDESCRIPTION>2f3e5c8a-0a9b-4cbc-8071-5925731d645b</USERDESCRIPTION>
+          <USERID>1</USERID>
+        </OWNER>
+        <OWNER_LABEL />
+        <REPLIES />
+      </COMMENT>
+    </x_COMMENTS>
+    <AfeChainId>1</AfeChainId>
+    <AfeNumber>06A992</AfeNumber>
+    <AfeNumberWithVersion>06A992 S1</AfeNumberWithVersion>
+    <VersionType>Supplement</VersionType>
+    <VersionString>S1</VersionString>
+    <CorrectionNumber>0</CorrectionNumber>
+    <RevisionNumber>0</RevisionNumber>
+    <SupplementNumber>1</SupplementNumber>
+    <PreviousEstimate>11000.00000000000000</PreviousEstimate>
+    <PreviousEstimateFormatted>$11,000.00</PreviousEstimateFormatted>
+    <CurrentEstimate>4000.00000000000000</CurrentEstimate>
+    <CurrentEstimateFormatted>$4,000.00</CurrentEstimateFormatted>
+    <TotalEstimate>15000.00000000000000</TotalEstimate>
+    <TotalEstimateFormatted>$15,000.00</TotalEstimateFormatted>
+    <Attributes>
+      <Attribute1.Name>AFE Type</Attribute1.Name>
+      <Attribute1.Id>1</Attribute1.Id>
+      <Attribute1.Value>ABANDONMENT</Attribute1.Value>
+      <Attribute1.OtherValue1>A</Attribute1.OtherValue1>
+      <Attribute1.OtherValue2>ABAN</Attribute1.OtherValue2>
+      <Attribute2.Name>District</Attribute2.Name>
+      <Attribute2.Id>1</Attribute2.Id>
+      <Attribute2.Value>North</Attribute2.Value>
+      <Attribute3.Name>Area</Attribute3.Name>
+      <Attribute3.Id>703</Attribute3.Id>
+      <Attribute3.Value>Plain Lake</Attribute3.Value>
+      <Attribute3.OtherValue2>49</Attribute3.OtherValue2>
+      <Attribute4.Name>Operator Status</Attribute4.Name>
+      <Attribute4.Id>1</Attribute4.Id>
+      <Attribute4.Value>Operated</Attribute4.Value>
+    </Attributes>
+    <Partners>
+      <Partner>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>100.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>11000.000000000000000000000000</PreviousNetEstimate>
+        <CurrentNetEstimate>4000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>15000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$11,000.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$4,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$15,000.00</FormattedTotalNetEstimate>
+      </Partner>
+    </Partners>
+    <Estimates>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>WASTE PROCESSING &amp; DISPOSAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>292</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.314</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>26edacee-382a-487a-8171-364c187d14b9</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <PreviousAmount>7500.00000000000000</PreviousAmount>
+        <PreviousAmountFormatted>$7,500.00</PreviousAmountFormatted>
+        <TotalEstimate>7500.00000000000000</TotalEstimate>
+        <TotalEstimateFormatted>$7,500.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>TUBING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>287</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.304</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>398181b4-0ce5-4d36-a213-915a61e1d74a</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <PreviousAmount>3000.00000000000000</PreviousAmount>
+        <PreviousAmountFormatted>$3,000.00</PreviousAmountFormatted>
+        <CurrentAmount>4000.00000000000000</CurrentAmount>
+        <CurrentAmountFormatted>$4,000.00</CurrentAmountFormatted>
+        <TotalEstimate>7000.00000000000000</TotalEstimate>
+        <TotalEstimateFormatted>$7,000.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>EQUIPMENT RENTALS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>298</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.337</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>aa26341c-e648-4e23-aad7-afabc5433a2c</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <PreviousAmount>500.00000000000000</PreviousAmount>
+        <PreviousAmountFormatted>$500.00</PreviousAmountFormatted>
+        <TotalEstimate>500.00000000000000</TotalEstimate>
+        <TotalEstimateFormatted>$500.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ACCRUAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>342</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.CLR</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>4a61fafe-dfd6-4859-ae45-a1b06f5f2443</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>true</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PERMANENT DOWNHOLE EQUIPMENT</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>289</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.306</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>62480390-475b-4ac0-9779-0cf0ddf833a1</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SERVICE RIG, POWER &amp; FUEL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>291</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.309</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>4444ae16-c6a1-4c2a-9e38-d7d616dba182</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>MISCELLANEOUS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>304</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.396</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>176a0617-cacb-4963-b9c2-ebd120345b1a</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>LOGGING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>293</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.317</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>b9455d6a-1a53-44f9-8147-3f66315e490b</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PERFORATING</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>294</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.318</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>295470c2-c030-4640-b646-fb62720d568e</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>CONTINGENCY</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>303</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.394</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>83ccdff3-962e-435f-8b9a-07ab88c3acf0</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>HAULING &amp; TRANSPORTATION</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>299</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.353</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>eaadd860-740e-47e6-b379-277a55a7edae</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ENGINEERING CONSULT/SUPERVISION</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>301</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.377</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>9eb5889b-06e8-4106-8e69-edeb75b232fc</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SUB-SURFACE WIRELINE SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>295</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.321</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>ac9cd46e-fe2c-4a2a-8091-71f89e910939</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ROAD &amp; SITE COSTS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>290</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.307</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>e5d56006-805d-4a5c-b196-5f6ca91a3fd4</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>CEMENTING SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>296</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.323</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>7cb9cb88-6785-4c32-bc2c-159167e82be9</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>SAFETY &amp; ENVIRONMENTAL SERVICES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>300</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.371</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>35b4c7c9-763d-487d-b099-911a7a3c6dc7</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>OPERATORS JOINT COSTS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>302</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.392</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>37e8c1bc-d8a3-46e8-8874-ea973a79a50e</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PRODUCTION CASING &amp; ACCESSORIES</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>286</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.302</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>6cc2ab3b-befd-48c7-b537-0d40be855cab</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ARO</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>285</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.301</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>48248737-606c-4d38-9b9c-db226cebcc18</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>TESTING, ANALYSIS &amp; SURVEYS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>297</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.333</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>7e47274b-872d-4f15-988e-14e94f624f4d</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ADMINISTRATIVE OVERHEAD</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>305</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.399</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>36bd9521-da8a-44b6-9db8-5304148ff90d</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>ACCRUAL</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>328</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.999</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>323295f2-bbc0-4ec3-b455-901f6247b07f</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>true</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+      <Estimate>
+        <Account>
+          <ACCOUNTDESCRIPTION>PACKERS</ACCOUNTDESCRIPTION>
+          <ACCOUNTID>288</ACCOUNTID>
+          <ACCOUNTNUMBER>9490.305</ACCOUNTNUMBER>
+          <CUSTOM />
+          <DOCUMENT_ID>7ac32e1f-bbc3-4645-8e4d-237fa1c8ff71</DOCUMENT_ID>
+          <GROUP_NAME>ABANDONMENT</GROUP_NAME>
+          <IS_ACCRUAL>false</IS_ACCRUAL>
+          <IS_NONBILLABLE>false</IS_NONBILLABLE>
+          <x_COMMENTS />
+        </Account>
+        <CurrentAmount>0</CurrentAmount>
+        <CurrentAmountFormatted>$0.00</CurrentAmountFormatted>
+        <TotalEstimate>0</TotalEstimate>
+        <TotalEstimateFormatted>$0.00</TotalEstimateFormatted>
+      </Estimate>
+    </Estimates>
+    <Reviews>
+      <Review>
+        <ReviewUser>
+          <ACTIVE>true</ACTIVE>
+          <CUSTOM />
+          <DATETIME_FORMAT DOCUMENT_TYPE="DATE_FORMAT">
+            <DATE_CLIENT_FORMAT>YYYY-MM-DD</DATE_CLIENT_FORMAT>
+            <DATE_CLIENT_FORMAT_NODAY>YYYY-MM</DATE_CLIENT_FORMAT_NODAY>
+            <DATE_FORMAT>yyyy-MM-dd</DATE_FORMAT>
+            <DATE_FORMAT_NODAY>yyyy-MM</DATE_FORMAT_NODAY>
+            <DATETIME_CLIENT_FORMAT>YYYY-MM-DD HH:mm</DATETIME_CLIENT_FORMAT>
+            <DATETIME_FORMAT>yyyy-MM-dd HH:mm</DATETIME_FORMAT>
+            <DOCUMENT_ID>4db061dc-23b1-4532-be22-077802d39390</DOCUMENT_ID>
+            <EXCEL_FORMAT>yyyy-mm-dd hh:mm</EXCEL_FORMAT>
+            <NAME>yyyy-mm-dd</NAME>
+          </DATETIME_FORMAT>
+          <DOCUMENT_ID>3ae4c486-c55d-481f-a042-226f952ecb96</DOCUMENT_ID>
+          <EMAIL>PM@example.com</EMAIL>
+          <MODULE_AFE>true</MODULE_AFE>
+          <MODULE_BUDGET>true</MODULE_BUDGET>
+          <MODULE_OPSCHED>false</MODULE_OPSCHED>
+          <MODULE_OPSCHED_VIEW>true</MODULE_OPSCHED_VIEW>
+          <MODULE_RTX>true</MODULE_RTX>
+          <NAME>Alex Production Manager</NAME>
+          <PERM_NEW_AFE>true</PERM_NEW_AFE>
+          <PERM_NEW_PROJECT>false</PERM_NEW_PROJECT>
+          <PERM_NEW_RTD>false</PERM_NEW_RTD>
+          <PERM_NEW_SCHED>false</PERM_NEW_SCHED>
+          <PREFERRED_MODULE>AFE</PREFERRED_MODULE>
+          <TIMEZONE_IANA_OLSON>America/Denver</TIMEZONE_IANA_OLSON>
+          <USERDESCRIPTION>Approver West</USERDESCRIPTION>
+          <USERID>34</USERID>
+          <x_COMMENTS />
+        </ReviewUser>
+        <ReviewStatus>NotReviewed</ReviewStatus>
+        <ReviewAssignedDate>2018-07-24T04:46:19Z</ReviewAssignedDate>
+        <ReviewAssignedDate_Local>2018-07-23T22:46:19</ReviewAssignedDate_Local>
+      </Review>
+    </Reviews>
+    <CapCount>0</CapCount>
+  </Afe>
+  <TargetCompany>
+    <Company>
+      <ACTIVE>true</ACTIVE>
+      <AFFILIATE>true</AFFILIATE>
+      <CODE>4</CODE>
+      <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+      <CUSTOM />
+      <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+      <PARTNERID>4</PARTNERID>
+      <x_COMMENTS />
+    </Company>
+    <Status>No Status</Status>
+    <IsAffiliate>true</IsAffiliate>
+    <IsSilent>false</IsSilent>
+    <SendCashCall>false</SendCashCall>
+    <SilentWorkingInterest>0</SilentWorkingInterest>
+    <WorkingInterest>100.00000000000000</WorkingInterest>
+    <PreviousNetEstimate>11000.000000000000000000000000</PreviousNetEstimate>
+    <CurrentNetEstimate>4000.0000000000000000000000000</CurrentNetEstimate>
+    <TotalNetEstimate>15000.000000000000000000000000</TotalNetEstimate>
+    <FormattedPreviousNetEstimate>$11,000.00</FormattedPreviousNetEstimate>
+    <FormattedCurrentNetEstimate>$4,000.00</FormattedCurrentNetEstimate>
+    <FormattedTotalNetEstimate>$15,000.00</FormattedTotalNetEstimate>
+    <PartnersExcludingSilent>
+      <PartnerExcludingSilent>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>100.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>11000.000000000000000000000000</PreviousNetEstimate>
+        <CurrentNetEstimate>4000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>15000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$11,000.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$4,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$15,000.00</FormattedTotalNetEstimate>
+      </PartnerExcludingSilent>
+    </PartnersExcludingSilent>
+    <CollapsedPartners>
+      <PartnerCollapsed>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>100.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>11000.000000000000000000000000</PreviousNetEstimate>
+        <CurrentNetEstimate>4000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>15000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$11,000.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$4,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$15,000.00</FormattedTotalNetEstimate>
+      </PartnerCollapsed>
+    </CollapsedPartners>
+    <CollapsedPartnersWithAffiliate>
+      <PartnerCollapsedWithAffiliate>
+        <Company>
+          <ACTIVE>true</ACTIVE>
+          <AFFILIATE>true</AFFILIATE>
+          <CODE>4</CODE>
+          <COMNAME>Navigator Oil  Gas Inc.</COMNAME>
+          <CUSTOM />
+          <DOCUMENT_ID>401d09bc-655f-4272-a462-02921dcfbfcb</DOCUMENT_ID>
+          <PARTNERID>4</PARTNERID>
+          <x_COMMENTS />
+        </Company>
+        <Status>No Status</Status>
+        <IsAffiliate>true</IsAffiliate>
+        <IsSilent>false</IsSilent>
+        <SendCashCall>false</SendCashCall>
+        <SilentWorkingInterest>0</SilentWorkingInterest>
+        <WorkingInterest>100.00000000000000</WorkingInterest>
+        <PreviousNetEstimate>11000.000000000000000000000000</PreviousNetEstimate>
+        <CurrentNetEstimate>4000.0000000000000000000000000</CurrentNetEstimate>
+        <TotalNetEstimate>15000.000000000000000000000000</TotalNetEstimate>
+        <FormattedPreviousNetEstimate>$11,000.00</FormattedPreviousNetEstimate>
+        <FormattedCurrentNetEstimate>$4,000.00</FormattedCurrentNetEstimate>
+        <FormattedTotalNetEstimate>$15,000.00</FormattedTotalNetEstimate>
+      </PartnerCollapsedWithAffiliate>
+    </CollapsedPartnersWithAffiliate>
+  </TargetCompany>
+</FormData>
